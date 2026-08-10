@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-pfd5im.3depositcasino.co.nz/sitemap.xml
